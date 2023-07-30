@@ -61,12 +61,14 @@
         <dependency>
             <groupId>com.azure.spring</groupId>
             <artifactId>spring-cloud-azure-starter-keyvault-secrets</artifactId>
+            <version>3.0.2</version>
         </dependency>
 
         <!-- Third parties -->
         <dependency>
 			<groupId>com.azure.spring</groupId>
 			<artifactId>spring-cloud-azure-starter-jdbc-mysql</artifactId>
+            <version>3.0.2</version>
 		</dependency>
         <dependency>
             <groupId>org.hsqldb</groupId>
@@ -91,6 +93,7 @@
         <dependency>
             <groupId>com.azure.spring</groupId>
             <artifactId>spring-cloud-azure-starter-servicebus-jms</artifactId>
+            <version>3.0.2</version>
         </dependency>
 
         <!-- Webjars -->
